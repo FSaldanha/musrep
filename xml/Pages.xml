@@ -1,0 +1,20 @@
+<content width="750" height="750" bgcolor="cccccc" loadercolor="ffffff" panelcolor="11135a" buttoncolor="11135a" textcolor="ffffff">
+	<page src="pages/p1.jpg"/>
+	<page src="pages/p2.jpg"/>
+	<page src="pages/p3.jpg"/>
+	<page src="pages/p4.swf"/>
+	<page src="pages/p5.jpg"/>
+	<page src="pages/p6.swf"/>
+	<page src="pages/p7.jpg"/>
+	<page src="pages/p8.jpg"/>
+	<page src="pages/p9.jpg"/>
+	<page src="pages/p10.swf"/>
+	<page src="pages/p11.jpg"/>
+	<page src="pages/p12.jpg"/>
+	<page src="pages/p13.jpg"/>
+	<page src="pages/p14.swf"/>
+	<page src="pages/p15.jpg"/>
+	<page src="pages/p16.jpg"/>
+	<page src="pages/p17.jpg"/>
+	<page src="pages/p18.swf"/>
+</content>
